@@ -10,7 +10,7 @@
  */
 
 function add_facebookscripts(){
-	wp_enqueue_style('tcssfblbcss', plugins_url().'/css/facebook.css');
+	wp_enqueue_style('tcssfblbcss', plugins_url().'/tcss-facebook-likebox-widget/css/facebook.css');
 }
 add_action('wp_enqueue_scripts','add_facebookscripts');
 
