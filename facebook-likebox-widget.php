@@ -3,7 +3,7 @@
  * Plugin Name: TCSS Facebook Likebox Widget
  * Plugin URI: http://tcss.co.in/facebook-likebox-widget
  * Description: This widget can be used in your wordpress site to show fanbox and users will be able to like your facebook page
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: gsjha
  * Author URI: http://gsjha.com
  * License: GPL2
