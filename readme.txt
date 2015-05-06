@@ -2,7 +2,7 @@
 Contributors: gsjha, tcss
 Tags: facebook, likebox, facebook likebox widget, widget, Likebox, Fanbox, Facebook Fanbox, Facebook fanbox widget
 Requires at least: 2.7
-Tested up to: 4.0
+Tested up to: 4.2
 License: GPLv2 or later
 
 TCSS Facebook Likebox widget can be used in your wordpress site to show fanbox and users will be able to like your facebook page
